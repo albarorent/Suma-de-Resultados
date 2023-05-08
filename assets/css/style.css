@@ -95,6 +95,10 @@ p{
     height: 320px;
 }
 
+.div__summary h1{
+    font-size: 1rem;
+}
+
 @media (max-width:650px){
     .div__summary{
         margin: 0;
