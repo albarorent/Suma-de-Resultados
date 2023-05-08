@@ -76,7 +76,8 @@ p{
     margin-top: 1rem;
 }
 
-.result__final h3{
+.result__final h1{
+    font-size: 1.5rem;
     color: hsl(0, 0%, 100%);
 }
 
